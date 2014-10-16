@@ -1,6 +1,7 @@
 {
     "name": "acdoorn/packagetest",
     "description": "",
+    "version": "dev-develop",
     "authors": [
         {
             "name": "Alexander van Doorn",
