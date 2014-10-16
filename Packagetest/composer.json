@@ -1,0 +1,22 @@
+{
+    "name": "acdoorn/packagetest",
+    "description": "",
+    "authors": [
+        {
+            "name": "Alexander van Doorn",
+            "email": "acdoorn@avans.nl"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Acdoorn\\Packagetest\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
